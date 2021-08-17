@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml" />
+    <springProfile name="prod">
+        <springProperty name="LOG_FILE" source="logging.file" defaultValue="logs/app.log" />
+        <include resource="org/springframework/boot/logging/logback/file-appender.xml" />
+
+        <logger name="edu.klifanova.uniquevaluesinxml" level="DEBUG" />
+
+        <root level="INFO">
+            <appender-ref ref="FILE" />
+        </root>
+    </springProfile>
+
+    <springProfile name="test">
+        <include resource="org/springframework/boot/logging/logback/console-appender.xml" />
+
+        <logger name="edu.klifanova.uniquevaluesinxml" level="DEBUG" />
+
+        <root level="INFO">
+            <appender-ref ref="CONSOLE" />
+        </root>
+    </springProfile>
+</configuration>

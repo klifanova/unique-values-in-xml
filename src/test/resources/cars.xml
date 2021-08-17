@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <mark name="Koenigsegg" id="137">
+        <code>KOENIGSEGG</code>
+        <folder name="CCX" id="20347711">
+            <model id="43533">CCX</model>
+            <generation id="20347711">20347711</generation>
+            <modification name="CCX Edition 4.8 AMT (888 л.с.)" id="20505881">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CCX</folder_id>
+                <modification_id>CCX Edition 4.8 AMT (888 л.с.)</modification_id>
+                <configuration_id>20469388</configuration_id>
+                <tech_param_id>20505881</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2008 - 2010</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="4.7 MT (806 л.с.)" id="87320">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CCX</folder_id>
+                <modification_id>4.7 MT (806 л.с.)</modification_id>
+                <configuration_id>20469388</configuration_id>
+                <tech_param_id>20469466</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2006 - 2010</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="CCXR 4.7 MT (1018 л.с.)" id="65366">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CCX</folder_id>
+                <modification_id>CCXR 4.7 MT (1018 л.с.)</modification_id>
+                <configuration_id>20469388</configuration_id>
+                <tech_param_id>20469447</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2006 - 2010</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="CCXR Trevita 4.8 MT (1018 л.с.)" id="65293">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CCX</folder_id>
+                <modification_id>CCXR Trevita 4.8 MT (1018 л.с.)</modification_id>
+                <configuration_id>20469388</configuration_id>
+                <tech_param_id>20469420</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2009 - 2010</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="CCR" id="20347700">
+            <model id="52179">CCR</model>
+            <generation id="20347700">20347700</generation>
+            <modification name="CCXR 4.7 MT (806 л.с.)" id="20057">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CCR</folder_id>
+                <modification_id>CCXR 4.7 MT (806 л.с.)</modification_id>
+                <configuration_id>20469542</configuration_id>
+                <tech_param_id>20469572</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2004 - 2006</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="One:1" id="20505608">
+            <model id="52557">ONE_1</model>
+            <generation id="20505608">20505608</generation>
+            <modification name="5.0 AMT (1360 л.с.)" id="97657">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>One:1</folder_id>
+                <modification_id>5.0 AMT (1360 л.с.)</modification_id>
+                <configuration_id>20505637</configuration_id>
+                <tech_param_id>20505693</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2014 - 2014</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Agera" id="20347679">
+            <model id="43894">AGERA</model>
+            <generation id="20347679">20347679</generation>
+            <modification name="RS 5.0 AMT (1160 л.с.)" id="20505959">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>Agera</folder_id>
+                <modification_id>RS 5.0 AMT (1160 л.с.)</modification_id>
+                <configuration_id>20469377</configuration_id>
+                <tech_param_id>20505959</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2015 - 2018</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="R 5.0 AMT (1115 л.с.)" id="65582">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>Agera</folder_id>
+                <modification_id>R 5.0 AMT (1115 л.с.)</modification_id>
+                <configuration_id>20469377</configuration_id>
+                <tech_param_id>20469434</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2011 - 2014</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="5.0 AMT (940 л.с.)" id="65581">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>Agera</folder_id>
+                <modification_id>5.0 AMT (940 л.с.)</modification_id>
+                <configuration_id>20469377</configuration_id>
+                <tech_param_id>20469409</tech_param_id>
+                <body_type>Тарга</body_type>
+                <years>2011 - 2018</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Regera, I" id="20505403">
+            <model>REGERA</model>
+            <generation id="20505403">20505403</generation>
+            <modification name="5.0hyb AT (1100 л.с.)" id="20505518">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>Regera, I</folder_id>
+                <modification_id>5.0hyb AT (1100 л.с.)</modification_id>
+                <configuration_id>20505433</configuration_id>
+                <tech_param_id>20505518</tech_param_id>
+                <body_type>Родстер</body_type>
+                <years>2015 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="CC8S" id="20347689">
+            <model id="4316">CC8S</model>
+            <generation id="20347689">20347689</generation>
+            <modification name="4.7 MT (655 л.с.)" id="20056">
+                <mark_id>Koenigsegg</mark_id>
+                <folder_id>CC8S</folder_id>
+                <modification_id>4.7 MT (655 л.с.)</modification_id>
+                <configuration_id>20469390</configuration_id>
+                <tech_param_id>20469423</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>1998 - 2004</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+    </mark>
+    <mark name="Marussia" id="1972">
+        <code>MARUSSIA</code>
+        <folder name="B2" id="20348294">
+            <model id="42245">B2</model>
+            <generation id="20348294">20348294</generation>
+            <modification name="3.5 AT (300 л.с.)" id="64506">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B2</folder_id>
+                <modification_id>3.5 AT (300 л.с.)</modification_id>
+                <configuration_id>20470027</configuration_id>
+                <tech_param_id>20470058</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="2.8 AT (420 л.с.)" id="77274">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B2</folder_id>
+                <modification_id>2.8 AT (420 л.с.)</modification_id>
+                <configuration_id>20470027</configuration_id>
+                <tech_param_id>20470097</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="2.8 AT (360 л.с.)" id="77272">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B2</folder_id>
+                <modification_id>2.8 AT (360 л.с.)</modification_id>
+                <configuration_id>20470027</configuration_id>
+                <tech_param_id>20470075</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="B1" id="20348283">
+            <model id="42243">B1</model>
+            <generation id="20348283">20348283</generation>
+            <modification name="3.5 AT (300 л.с.)" id="64505">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B1</folder_id>
+                <modification_id>3.5 AT (300 л.с.)</modification_id>
+                <configuration_id>20470031</configuration_id>
+                <tech_param_id>20470062</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="2.8 AT (360 л.с.)" id="77268">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B1</folder_id>
+                <modification_id>2.8 AT (360 л.с.)</modification_id>
+                <configuration_id>20470031</configuration_id>
+                <tech_param_id>20470082</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="2.8 AT (420 л.с.)" id="77270">
+                <mark_id>Marussia</mark_id>
+                <folder_id>B1</folder_id>
+                <modification_id>2.8 AT (420 л.с.)</modification_id>
+                <configuration_id>20470031</configuration_id>
+                <tech_param_id>20470102</tech_param_id>
+                <body_type>Купе</body_type>
+                <years>2010 - 2014</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+    </mark>
+    <mark name="Mitsuoka" id="182">
+        <code>MITSUOKA</code>
+        <folder name="Like" id="20348858">
+            <model id="45048">LIKE</model>
+            <generation id="20348858">20348858</generation>
+            <modification name="Electro CVT (30 кВт)" id="78372">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Like</folder_id>
+                <modification_id>Electro CVT (30 кВт)</modification_id>
+                <configuration_id>20471178</configuration_id>
+                <tech_param_id>20471214</tech_param_id>
+                <body_type>Хэтчбек 5 дв.</body_type>
+                <years>2010 - 2012</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Yuga" id="8298614">
+            <model id="45044">YUGA</model>
+            <generation id="8298614">8298614</generation>
+            <modification name="1.4 CVT (85 л.с.) 4WD" id="66328">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Yuga</folder_id>
+                <modification_id>1.4 CVT (85 л.с.) 4WD</modification_id>
+                <configuration_id>8298615</configuration_id>
+                <tech_param_id>8298617</tech_param_id>
+                <body_type>Компактвэн</body_type>
+                <years>2000 - 2002</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.4 AT (85 л.с.)" id="66327">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Yuga</folder_id>
+                <modification_id>1.4 AT (85 л.с.)</modification_id>
+                <configuration_id>8298615</configuration_id>
+                <tech_param_id>8298616</tech_param_id>
+                <body_type>Компактвэн</body_type>
+                <years>2000 - 2002</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Ryugi, I" id="21528551">
+            <model>RYUGI</model>
+            <generation id="21528551">21528551</generation>
+            <modification name="1.5 CVT (109 л.с.)" id="21528748">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ryugi, I</folder_id>
+                <modification_id>1.5 CVT (109 л.с.)</modification_id>
+                <configuration_id>21528637</configuration_id>
+                <tech_param_id>21528748</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2015 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.5 CVT (103 л.с.) 4WD" id="21528796">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ryugi, I</folder_id>
+                <modification_id>1.5 CVT (103 л.с.) 4WD</modification_id>
+                <configuration_id>21528637</configuration_id>
+                <tech_param_id>21528796</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2015 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.5 MT (109 л.с.)" id="21528682">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ryugi, I</folder_id>
+                <modification_id>1.5 MT (109 л.с.)</modification_id>
+                <configuration_id>21528637</configuration_id>
+                <tech_param_id>21528682</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2015 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.5hyb CVT (74 л.с.)" id="21528852">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ryugi, I</folder_id>
+                <modification_id>1.5hyb CVT (74 л.с.)</modification_id>
+                <configuration_id>21528637</configuration_id>
+                <tech_param_id>21528852</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2015 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Viewt, II (K12)" id="45043">
+            <model id="45041">VIEWT</model>
+            <generation id="45043">8443186</generation>
+            <modification name="1.2 AT (90 л.с.)" id="94642">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, II (K12)</folder_id>
+                <modification_id>1.2 AT (90 л.с.)</modification_id>
+                <configuration_id>20471307</configuration_id>
+                <tech_param_id>20471361</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2005 - 2012</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.4 AT (97 л.с.) 4WD" id="66325">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, II (K12)</folder_id>
+                <modification_id>1.4 AT (97 л.с.) 4WD</modification_id>
+                <configuration_id>20471307</configuration_id>
+                <tech_param_id>20471343</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2005 - 2012</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.2 MT (90 л.с.)" id="66324">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, II (K12)</folder_id>
+                <modification_id>1.2 MT (90 л.с.)</modification_id>
+                <configuration_id>20471307</configuration_id>
+                <tech_param_id>20471334</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2005 - 2012</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.5 CVT (109 л.с.)" id="66326">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, II (K12)</folder_id>
+                <modification_id>1.5 CVT (109 л.с.)</modification_id>
+                <configuration_id>20471307</configuration_id>
+                <tech_param_id>20471354</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2005 - 2012</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Viewt, I (K11)" id="45042">
+            <model id="45041">VIEWT</model>
+            <generation id="45042">8298551</generation>
+            <modification name="1.0 AT (58 л.с.)" id="94640">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, I (K11)</folder_id>
+                <modification_id>1.0 AT (58 л.с.)</modification_id>
+                <configuration_id>8298552</configuration_id>
+                <tech_param_id>8298555</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>1993 - 2003</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.0 MT (58 л.с.)" id="66321">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, I (K11)</folder_id>
+                <modification_id>1.0 MT (58 л.с.)</modification_id>
+                <configuration_id>8298552</configuration_id>
+                <tech_param_id>8298554</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>1993 - 2003</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.3 MT (79 л.с.)" id="66322">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, I (K11)</folder_id>
+                <modification_id>1.3 MT (79 л.с.)</modification_id>
+                <configuration_id>8298552</configuration_id>
+                <tech_param_id>8298553</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>1993 - 2003</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.3 CVT (79 л.с.)" id="94641">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, I (K11)</folder_id>
+                <modification_id>1.3 CVT (79 л.с.)</modification_id>
+                <configuration_id>8298552</configuration_id>
+                <tech_param_id>8298556</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>1993 - 2003</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Viewt, III (K13)" id="51606">
+            <model id="45041">VIEWT</model>
+            <generation id="51606">20354411</generation>
+            <modification name="1.2 CVT (79 л.с.)" id="78422">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, III (K13)</folder_id>
+                <modification_id>1.2 CVT (79 л.с.)</modification_id>
+                <configuration_id>20471167</configuration_id>
+                <tech_param_id>20471198</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2012 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.2 CVT (79 л.с.) 4WD" id="78424">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Viewt, III (K13)</folder_id>
+                <modification_id>1.2 CVT (79 л.с.) 4WD</modification_id>
+                <configuration_id>20471167</configuration_id>
+                <tech_param_id>20471224</tech_param_id>
+                <body_type>Седан</body_type>
+                <years>2012 - по н.в.</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Zero 1" id="8298543">
+            <model id="45046">ZERO_ONE</model>
+            <generation id="8298543">8298543</generation>
+            <modification name="1.8 AT (130 л.с.)" id="8298548">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Zero 1</folder_id>
+                <modification_id>1.8 AT (130 л.с.)</modification_id>
+                <configuration_id>8298544</configuration_id>
+                <tech_param_id>8298548</tech_param_id>
+                <body_type>Родстер</body_type>
+                <years>1996 - 2000</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.8 MT (130 л.с.)" id="66330">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Zero 1</folder_id>
+                <modification_id>1.8 MT (130 л.с.)</modification_id>
+                <configuration_id>8298544</configuration_id>
+                <tech_param_id>20513075</tech_param_id>
+                <body_type>Родстер</body_type>
+                <years>1996 - 2000</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Le-Seyde" id="20348847">
+            <model id="13792">LE_SEYDE</model>
+            <generation id="20348847">20348847</generation>
+            <modification name="2.0 AT (160 л.с.)" id="38771">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Le-Seyde</folder_id>
+                <modification_id>2.0 AT (160 л.с.)</modification_id>
+                <configuration_id>20471316</configuration_id>
+                <tech_param_id>20471342</tech_param_id>
+                <body_type>Кабриолет</body_type>
+                <years>2000 - 2001</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="1.8 AT (125 л.с.)" id="105813">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Le-Seyde</folder_id>
+                <modification_id>1.8 AT (125 л.с.)</modification_id>
+                <configuration_id>20471316</configuration_id>
+                <tech_param_id>20471353</tech_param_id>
+                <body_type>Кабриолет</body_type>
+                <years>1990 - 1991</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Ray, II" id="51754">
+            <model id="44994">RAY</model>
+            <generation id="51754">8298521</generation>
+            <modification name="0.7 AT (46 л.с.)" id="78390">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ray, II</folder_id>
+                <modification_id>0.7 AT (46 л.с.)</modification_id>
+                <configuration_id>20471300</configuration_id>
+                <tech_param_id>20471328</tech_param_id>
+                <body_type>Хэтчбек 5 дв.</body_type>
+                <years>1999 - 2002</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="0.7 AT (58 л.с.)" id="78392">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ray, II</folder_id>
+                <modification_id>0.7 AT (58 л.с.)</modification_id>
+                <configuration_id>20471300</configuration_id>
+                <tech_param_id>20471333</tech_param_id>
+                <body_type>Хэтчбек 5 дв.</body_type>
+                <years>2002 - 2004</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+        <folder name="Ray, I" id="51752">
+            <model id="44994">RAY</model>
+            <generation id="51752">8298515</generation>
+            <modification name="0.7 AT (52 л.с.)" id="95689">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ray, I</folder_id>
+                <modification_id>0.7 AT (52 л.с.)</modification_id>
+                <configuration_id>20463755</configuration_id>
+                <tech_param_id>20463813</tech_param_id>
+                <body_type>Хэтчбек 3 дв.</body_type>
+                <years>1996 - 1999</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="0.7 MT (52 л.с.)" id="78388">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ray, I</folder_id>
+                <modification_id>0.7 MT (52 л.с.)</modification_id>
+                <configuration_id>20463755</configuration_id>
+                <tech_param_id>20463804</tech_param_id>
+                <body_type>Хэтчбек 3 дв.</body_type>
+                <years>1996 - 1999</years>
+                <complectations></complectations>
+            </modification>
+            <modification name="0.7 MT (52 л.с.) 4WD" id="8298519">
+                <mark_id>Mitsuoka</mark_id>
+                <folder_id>Ray, I</folder_id>
+                <modification_id>0.7 MT (52 л.с.) 4WD</modification_id>
+                <configuration_id>8298516</configuration_id>
+                <tech_param_id>8298519</tech_param_id>
+                <body_type>Хэтчбек 5 дв.</body_type>
+                <years>1996 - 1999</years>
+                <complectations></complectations>
+            </modification>
+        </folder>
+    </mark>
+</catalog>
