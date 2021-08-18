@@ -4,7 +4,7 @@ Console program that allows you to count the number of unique values for the par
 
 ## Technologies
 * Spring Boot
-* Spring OXMgit init
+* Spring OXM(parsing xml)
 
 ## Technical Requirements
 
@@ -20,4 +20,4 @@ Console program that allows you to count the number of unique values for the par
 
 Command to run application:
 
-`java -jar target/unique-values-in-xml-XXX.jar cars.xml`# unique-values-in-xml
+`java -jar target/unique-values-in-xml-XXX.jar cars.xml`
